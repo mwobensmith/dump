@@ -1,0 +1,10 @@
+source : top
+release build metadata : NSS 3.28.3, NSPR 4.13.1
+description : Fx55.0a1 nightly vs Fx52.0.2 release
+branch : Nightly
+test build url : https://download.mozilla.org/?product=firefox-nightly-latest&os={platform}&lang=en-US
+test build metadata : NSS 3.31 Beta, NSPR 4.15 Beta
+timestamp : 2017-04-05-16-51-24
+Total time : 11 minutes
+release build url : https://download.mozilla.org/?product=firefox-latest&os={platform}&lang=en-US
+++++++++++
